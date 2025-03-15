@@ -1,0 +1,27 @@
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+D:\Financiera\Financiera_back\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+D:\Financiera\Financiera_back\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+D:\Financiera\Financiera_back\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+D:\Financiera\Financiera_back\CapaDatos\bin\Debug\net6.0\CapaDTO.dll
+D:\Financiera\Financiera_back\CapaDatos\bin\Debug\net6.0\CapaDTO.pdb
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+D:\Financiera\Financiera_back\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll

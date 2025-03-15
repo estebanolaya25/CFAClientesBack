@@ -1,0 +1,24 @@
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\bin\Debug\net6.0\CapaDTO.deps.json
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\bin\Debug\net6.0\CapaDTO.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\bin\Debug\net6.0\CapaDTO.pdb
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.csproj.AssemblyReference.cache
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.AssemblyInfoInputs.cache
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.AssemblyInfo.cs
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.csproj.CoreCompileInputs.cache
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\obj\Debug\net6.0\refint\CapaDTO.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.pdb
+D:\Enka proyect\Enka_Back\Financiera_back\CapaDTO\obj\Debug\net6.0\ref\CapaDTO.dll
+D:\Financiera\Financiera_back\CapaDTO\bin\Debug\net6.0\CapaDTO.deps.json
+D:\Financiera\Financiera_back\CapaDTO\bin\Debug\net6.0\CapaDTO.dll
+D:\Financiera\Financiera_back\CapaDTO\bin\Debug\net6.0\CapaDTO.pdb
+D:\Financiera\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.csproj.AssemblyReference.cache
+D:\Financiera\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Financiera\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.AssemblyInfoInputs.cache
+D:\Financiera\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.AssemblyInfo.cs
+D:\Financiera\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.csproj.CoreCompileInputs.cache
+D:\Financiera\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.dll
+D:\Financiera\Financiera_back\CapaDTO\obj\Debug\net6.0\refint\CapaDTO.dll
+D:\Financiera\Financiera_back\CapaDTO\obj\Debug\net6.0\CapaDTO.pdb
+D:\Financiera\Financiera_back\CapaDTO\obj\Debug\net6.0\ref\CapaDTO.dll

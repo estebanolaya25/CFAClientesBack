@@ -1,0 +1,32 @@
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+D:\Enka proyect\Enka_Back\Financiera_back\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+D:\Financiera\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+D:\Financiera\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+D:\Financiera\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+D:\Financiera\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+D:\Financiera\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaDTO.dll
+D:\Financiera\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+D:\Financiera\Financiera_back\CapaNegocio\bin\Debug\net6.0\CapaDTO.pdb
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+D:\Financiera\Financiera_back\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
